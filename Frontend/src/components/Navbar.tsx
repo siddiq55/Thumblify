@@ -21,7 +21,7 @@ export default function Navbar() {
       >
         <Link to="/">
           <img
-            src="/public/logo.svg"
+            src="/logo.svg"
             alt="logo"
             className="h-8.5 w-auto"
           />
