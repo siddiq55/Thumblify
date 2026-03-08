@@ -49,7 +49,7 @@ app.use(express.json());
 
 
 app.get('/', (req: Request, res: Response) => {
-    res.send('Server is Live! MongoDB connected successfully!');
+    res.send('Server is Live!');
 });
 
 app.use("/api/auth", AuthRouter);
