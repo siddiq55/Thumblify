@@ -91,13 +91,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-
-| Home Page | Dashboard | Generator |
-| --- | --- | --- |
-|  |  |  |
-
----
 
 
